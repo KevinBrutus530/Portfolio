@@ -1,0 +1,10 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  align-items: center;
+}
+
+.contactInfo {
+  display: flex;
+}
